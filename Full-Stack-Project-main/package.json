@@ -1,0 +1,15 @@
+{
+  "name": "full-stack-project-main",
+  "version": "1.0.0",
+  "description": "Including web development projects with HTML, CSS, Javascripts, Node.js, Express.js, React, SQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
